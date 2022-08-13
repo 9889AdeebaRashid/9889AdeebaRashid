@@ -5,7 +5,7 @@ I'm **ADEEBA RASHID**, persuing B.Tech from **Vellore institute of Technology**.
 **connect with me here**
 
 [LinkedIn](https://www.linkedin.com/in/adeeba-rashid-62643b1b9)  
-[Instagram](https://www.instagram.com/adeeba_rashid/)   
+   
 * I’m currently working on **Machine learning projects.** 
 * I’m currently exploring **Data Analytics** and **Machine Learning.**  
 * How to reach me: [LinkedIn](https://www.linkedin.com/in/adeeba-rashid-62643b1b9)  [Instagram](https://www.instagram.com/adeeba_rashid/)  adeebarashid2412@gmail.com   
