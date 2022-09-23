@@ -6,8 +6,9 @@ I'm **ADEEBA RASHID**, persuing B.Tech from **Vellore institute of Technology**.
 
 [LinkedIn](https://www.linkedin.com/in/adeeba-rashid-62643b1b9)  
    
-* I’m currently working on **Machine learning projects.** 
-* I’m currently exploring **Data Analytics** and **Machine Learning.**  
+* I'm  a DATA ANALYST AND BUSINESS ANALYST.
+* I've done 3 internships till date.
+* I’m currently exploring **Machine Learning.**  
 * How to reach me: [LinkedIn](https://www.linkedin.com/in/adeeba-rashid-62643b1b9)  
 * Email - adeebarashid2412@gmail.com   
 * Pronouns: She/Her  
