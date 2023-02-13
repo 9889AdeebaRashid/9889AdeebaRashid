@@ -9,8 +9,13 @@ CGPA- 8.70
 [LinkedIn](https://www.linkedin.com/in/adeeba-rashid-62643b1b9)  
    
 * I'm  a DATA ANALYST AND BUSINESS ANALYST.
-* I've done 3 internships till date.
-* I’m currently exploring **Machine Learning.**  
+* I've done 4 internships till date.
+* 1) TORPEDO SHOES PRIVATE LIMITED, UNNAO. (Intern as a business Analyst)
+* 2) OMDENA, CALIFORNIA. (Intern as a machine learning engineer)
+* 3) CODEVITA LIVE, PUNE. (ML engineer)
+* 4) SPARKS FOUNDATION, SINGAPORE (Business Analyst)
+
+* I’m currently exploring **Deep Learning.**  
 * How to reach me: [LinkedIn](https://www.linkedin.com/in/adeeba-rashid-62643b1b9)  
 * Email - adeebarashid2412@gmail.com   
 * Pronouns: She/Her  
