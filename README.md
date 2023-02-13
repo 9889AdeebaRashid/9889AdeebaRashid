@@ -2,7 +2,7 @@
  
 I'm **ADEEBA RASHID**, persuing B.Tech from **Vellore institute of Technology**. My specialization is **Artificial Intelligence & Machine learning.**
 
-CGPA- 8.67
+CGPA- 8.70
 
 **connect with me here**
 
