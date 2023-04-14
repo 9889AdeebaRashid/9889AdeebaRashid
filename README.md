@@ -1,8 +1,18 @@
-### Hi there 👋
- 
-I'm **ADEEBA RASHID**, persuing B.Tech from **Vellore institute of Technology**. My specialization is **Artificial Intelligence & Machine learning.**
+### Hi there 👋 I'm **ADEEBA RASHID**, 
+persuing B.Tech from **Vellore institute of Technology**. My specialization is **Artificial Intelligence & Machine learning.**
+Adeeba is responsible for planning, designing and developing ML projects and exploring ETL PIPELINES. She is a data analyst abd a business Analyst.
+In addition to these responsibilities, Adeeva is also involved in research and project planning. She has knowledge on Programming languages such as JAVA, C++ AND Python.
 
-CGPA- 8.70
+Other relevant skills includes:-
+
+ADVANCED SQL
+EXCEL/GOOGLE SHEETS
+TABLEAU/POWER BI
+DATA ANALYTICS
+
+SHE is well equipped to tackle a wide range of data science projects. 
+
+CGPA- 9.17
 
 **connect with me here**
 
