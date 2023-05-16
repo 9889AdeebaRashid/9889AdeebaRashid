@@ -20,7 +20,7 @@ CGPA- 9.17
    
 * I'm  a DATA ANALYST AND BUSINESS ANALYST.
 * I've done 4 internships till date.
-* 1) TORPEDO SHOES PRIVATE LIMITED, UNNAO. (Intern as a business Analyst)
+* 1) Omdena Algeria (Intern as a business Analyst)
 * 2) OMDENA, CALIFORNIA. (Intern as a machine learning engineer)
 * 3) CODEVITA LIVE, PUNE. (ML engineer)
 * 4) SPARKS FOUNDATION, SINGAPORE (Business Analyst)
