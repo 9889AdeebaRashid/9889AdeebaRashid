@@ -12,7 +12,7 @@ DATA ANALYTICS
 
 SHE is well equipped to tackle a wide range of data science projects. 
 
-CGPA- 9.17
+CGPA- 8.78
 
 **connect with me here**
 
