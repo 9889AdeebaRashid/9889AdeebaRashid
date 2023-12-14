@@ -28,7 +28,8 @@ CGPA- 8.78
 * I’m currently exploring **Deep Learning.**  
 * How to reach me: [LinkedIn](https://www.linkedin.com/in/adeeba-rashid-62643b1b9)  
 * Email - adeebarashid2412@gmail.com   
-* Pronouns: She/Her  
+* Pronouns: She/Her
+* Transcript - https://drive.google.com/file/d/1J93Pgj351t6hkAvT97EsUzaprI99Xxym/view?usp=drivesdk
 <!--
 **9889AdeebaRashid/9889AdeebaRashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
