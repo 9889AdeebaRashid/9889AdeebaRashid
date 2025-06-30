@@ -1,4 +1,4 @@
-### Hi there 👋 I'm **ADEEBA RASHID**, 
+### Hi there 👋 I'm **ADEEBA RASHID**, PROGRAMMER ANALYST AT AMAZON
 persuing B.Tech from **Vellore institute of Technology**. My specialization is **Artificial Intelligence & Machine learning.**
 Adeeba is responsible for planning, designing and developing ML projects and exploring ETL PIPELINES. She is a PROGRAMMER ANALYST, data analyst and a Machine Learning Enthusiast.
 In addition to these responsibilities, Adeeba is also involved in research and project planning. She has knowledge on Programming languages such as JAVA, C++ AND Python.
