@@ -5,16 +5,17 @@ In addition to these responsibilities, Adeeba is also involved in research and p
 
 Other relevant skills includes:-
 
-Fulll-stack development
-ADVANCED SQL
-EXCEL/GOOGLE SHEETS
-TABLEAU/POWER BI
-DATA ANALYTICS
-Machine Learning
-ETL
-NLP
-Problem Solving
-Data Structures and Algorithm
+Fulll-stack development, 
+AWS 
+ADVANCED SQL 
+EXCEL/GOOGLE SHEETS 
+TABLEAU/POWER BI 
+DATA ANALYTICS 
+Machine Learning 
+ETL 
+NLP 
+Problem Solving 
+Data Structures and Algorithm 
 
 SHE is well equipped to tackle a wide range of data science projects. 
 
