@@ -3,6 +3,8 @@ persuing B.Tech from **Vellore institute of Technology**. My specialization is *
 Adeeba is responsible for planning, designing and developing ML projects and exploring ETL PIPELINES. She is a PROGRAMMER ANALYST, data analyst and a Machine Learning Enthusiast.
 In addition to these responsibilities, Adeeba is also involved in research and project planning. She has knowledge on Programming languages such as JAVA, C++ AND Python.
 
+### FEATURED IN PODCAST- https://www.youtube.com/watch?v=s_gVhUNXy00
+
 Other relevant skills includes:-
 
 Fulll-stack development, 
